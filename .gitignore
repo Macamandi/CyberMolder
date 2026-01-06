@@ -1,0 +1,15 @@
+# Pastas do Python que não precisamos
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente Virtual (GIGANTE, não suba isso!)
+venv/
+env/
+
+# Pastas de Build do PyInstaller
+build/
+dist/
+
+# Arquivos de sistema
+.DS_Store
