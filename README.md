@@ -28,6 +28,7 @@ Developed by **Samuel Sales Gomes**.
 | **.** / **,** | Move Slice Up/Down |
 | **1, 2, 3** | Change Editing Axis (X, Y, Z) |
 | **V + Arrows** | Move the entire Model |
+|**Shift + Arrows**|Rotate Camera|
 | **R** | Auto-Rotate Camera |
 | **Ctrl + S** | Save Project (.json) |
 | **S** | Export Object (.obj) |
